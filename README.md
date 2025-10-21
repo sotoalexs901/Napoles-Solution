@@ -1,15 +1,12 @@
-# AMNS Solutions
+# AMNS Solutions – Home + Services + Pricing
+- Corporate & elegant homepage with image gallery
+- Services, Pricing, Portfolio, Contact
+- Bilingual ES/EN, Crisp chat, WhatsApp & Email
+- Netlify-ready (Node 18)
 
-Website boilerplate (React + Vite + Tailwind + Framer Motion) with bilingual EN/ES toggle.
-
-## Quick start
-
-```bash
+## Dev
 npm install
 npm run dev
-```
 
-### Build for Netlify
-
-- Build command: `npm run build`
-- Publish directory: `dist`
+## Build
+npm run build
